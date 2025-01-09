@@ -1,0 +1,25 @@
+```
+Panduan Analisis
+1 Plot respon transient Kondisi nilai KP, KI, dan KD yang seperti apa yang 
+membuat sistem paling cepat stabil
+
+2 Plot respon transient Kondisi nilai KP, KI, dan KD yang seperti apa yang 
+membuat sistem memiliki error paling besar
+
+3 Bandingkan set point dengan output hitung berapa besar steady state error (SSE)
+
+4 Mana yang paling rentan menyebabkan sistem berosilasi? 
+
+5 (Catatan: dikatakan berosilasi jika berulang kali bolak-balik melewati set point 
+untuk mencapai set point yang diinginkan sampai berada di titik stabil.
+
+6 Bagaimana respons transien sistem tersebut dari masing-masing kategori kecepatan yang 
+diberikan? Hitung dengan menggunakan stopwatch/dari melihat serialplot dan 
+berikan penjelasan dari masing-masing waktu 
+berikut ini:
+
+1.Delay time (Td)
+2.Rise time (Tr)
+3.Peak time (Tp)
+4.Settling time (Ts)
+```

@@ -1,0 +1,44 @@
+1. Tanpa beban Turun:
+Tegangan Awal : 5 V
+Tegangan Saat Servo Jalan : 4.5 V
+Kecepatan :
+Arus : 
+
+2. Dengan beban Naik:
+Tegangan Awal : 5 V
+Tegangan Saat Servo Jalan : 4.4 V
+Kecepatan :
+Arus :
+
+3. Tanpa beban Naik:
+Tegangan Awal : 5 V
+Tegangan Saat Servo Jalan : 4.5 V
+Arus :
+
+4. Dengan beban Turun:
+Tegangan Awal : 5 V
+Tegangan Saat Servo Jalan : 4.5 V
+Kecepatan :
+Arus :
+
+Analisis motor dc/ukuran gear terhadap transfer daya (lihat komentar untuk panduan Analisis)
+
+| Duty Cycle (%) | Nilai Output (Voltage)| Output Terukur (Voltage) | Max Arus Motor(A) | Speed (rpm) |
+| ----- | ----- | ------ | ----- | ---- |
+|10%|||||
+|20%|||||
+
+Pengukuran Servo
+Untuk servo/motor dc yang mempunyai beban lakukan pengukuran dengan beban/load dan tanpa beban
+
+![image](https://hackmd.io/_uploads/BJHFObPNC.png)
+
+contoh plot pengukuran untuk motor DC (pilih salah satu)
+Grafik lainnya yang mungkin dibuat tergantung aktuatornya.
+
+Grafik kecepatan vs waktu sebelum dan sesudah beban ditambahkan.
+
+Grafik error vs waktu untuk melihat steady-state error.
+
+Grafik arus vs waktu untuk analisis konsumsi energi.
+
